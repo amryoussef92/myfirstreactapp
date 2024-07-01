@@ -1,5 +1,5 @@
 import React from "react";
-import Business from "../src/Business.js";
+// import Business from "../src/Business.js";
 import BusinessList from "../src/businessList.js";
 import SearchBar from "../src/SearchBar.js";
 import Styles from "../src/App.module.css";
